@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 續集古今佛道論衡
+#+DATE: 2015-08-30 22:28:51.514361
+#+PROPERTY: JUAN 0
